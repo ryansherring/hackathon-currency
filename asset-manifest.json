@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hackathon-currency/static/css/main.e1a44fb4.chunk.css",
+    "main.js": "/hackathon-currency/static/js/main.dfadb5cc.chunk.js",
+    "main.js.map": "/hackathon-currency/static/js/main.dfadb5cc.chunk.js.map",
+    "runtime-main.js": "/hackathon-currency/static/js/runtime-main.121dfc56.js",
+    "runtime-main.js.map": "/hackathon-currency/static/js/runtime-main.121dfc56.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/hackathon-currency/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.17e2e65e.chunk.js": "/hackathon-currency/static/js/2.17e2e65e.chunk.js",
+    "static/js/2.17e2e65e.chunk.js.map": "/hackathon-currency/static/js/2.17e2e65e.chunk.js.map",
+    "index.html": "/hackathon-currency/index.html",
+    "precache-manifest.defab755a07e4c09950151f4c5ea6bad.js": "/hackathon-currency/precache-manifest.defab755a07e4c09950151f4c5ea6bad.js",
+    "service-worker.js": "/hackathon-currency/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/hackathon-currency/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e1a44fb4.chunk.css.map": "/hackathon-currency/static/css/main.e1a44fb4.chunk.css.map",
+    "static/js/2.17e2e65e.chunk.js.LICENSE.txt": "/hackathon-currency/static/js/2.17e2e65e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.121dfc56.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.17e2e65e.chunk.js",
+    "static/css/main.e1a44fb4.chunk.css",
+    "static/js/main.dfadb5cc.chunk.js"
+  ]
+}
